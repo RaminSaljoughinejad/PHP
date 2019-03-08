@@ -1,0 +1,10 @@
+﻿@font-face {
+  font-family: 'anahita';
+  src: url('../fonts/BYekan.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BYekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+*{
+	font-family:"anahita",Georgia,Helvetica,sans-serif;
+	font-size:1em;
+}
