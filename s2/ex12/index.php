@@ -15,6 +15,6 @@ echo "</br>";
 echo $z-=$y;					// $z=$z-$y;
 echo "</br>";
 
-echo $k=$z;					// $k=$k*$y;
+echo $k=$z;					// $k=$z;
 
 ?>
